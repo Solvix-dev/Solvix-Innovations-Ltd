@@ -95,7 +95,7 @@ export function Footer() {
 
         <div className="mt-12 pt-8 border-t">
           <p className="text-center text-sm text-muted-foreground">
-            © {currentYear} InnovateTech. All rights reserved.
+            © {currentYear} Solvix Innovations . All rights reserved.
           </p>
         </div>
       </div>

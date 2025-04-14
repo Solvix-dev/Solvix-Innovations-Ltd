@@ -112,7 +112,7 @@ export function Contact() {
                 <Phone className="w-6 h-6 text-primary" />
                 <div>
                   <h4 className="font-medium">Phone</h4>
-                  <p className="text-muted-foreground">+234 8146565844</p>
+                  <p className="text-muted-foreground">+234 8146565844/ +234</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
@@ -127,7 +127,7 @@ export function Contact() {
                 <h4 className="font-medium mb-4">Follow Us</h4>
                 <div className="flex space-x-4">
                   <Button variant="ghost" size="icon" asChild>
-                    <a href="#" target="_blank" rel="noopener noreferrer">
+                    <a href="https://x.com/Solvix_dev" target="_blank" rel="noopener noreferrer">
                       <LucideX className="h-5 w-5" />
                     </a>
                   </Button>

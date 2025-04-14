@@ -16,7 +16,7 @@ export function Team() {
       name: 'Muhammad Adamu Ishaq',
       role: 'Director/ Software Engineer',
       bio: 'Muhareeb is a visionary Engineer with a passion for technology and innovation.',
-      image: '/assets/images/cap.jpeg',
+      image: 'https://ik.imagekit.io/solvix/Team%20Images/cap.jpeg?updatedAt=1744635877923',
       social: {
         facebook: '#',
         linkedin: '#',
@@ -28,7 +28,7 @@ export function Team() {
       name: 'Muhammad Kabir Hassan ',
       role: 'CTO/ Software Engineer',
       bio: 'Kabeer oversees all technical operations, ensuring our solutions are top-notch.',
-      image: '/assets/images/sirdiq.jpg',
+      image: 'https://ik.imagekit.io/solvix/Team%20Images/IMG-20220527-WA0009.jpg?updatedAt=1744636084793',
       social: {
         facebook: '#',
         linkedin: '#',
@@ -40,7 +40,7 @@ export function Team() {
       name: 'Ibrahim Sani',
       role: 'Lead Developer/ Software Engineer',
       bio: 'Ibrahim brings extensive experience in full-stack development .',
-      image: '/assets/images/imran.jpg',
+      image: 'https://ik.imagekit.io/solvix/Team%20Images/imran.jpg?updatedAt=1744635877130',
       social: {
         facebook: 'https://www.facebook.com/ebras.dev',
         linkedin: 'https://www.linkedin.com/in/ebrahim-sani',
@@ -52,7 +52,7 @@ export function Team() {
       name: 'Riduwanullah Busari Sola',
       role: 'Software Engineer',
       bio: 'Sola creates beautiful and intuitive user experiences that delight our clients.',
-      image: '/assets/images/sirdiq.jpg',
+      image: 'https://ik.imagekit.io/solvix/Team%20Images/tooncap.png?updatedAt=1744635879869',
       social: {
         facebook: '#',
         linkedin: '#',
@@ -64,7 +64,7 @@ export function Team() {
       name: 'Hassan Abdullahi',
       role: 'Network Engineer',
       bio: 'Ibrahim creates beautiful and intuitive user experiences that delight our clients.',
-      image: '/assets/images/hasan.jpg',
+      image: 'https://ik.imagekit.io/solvix/Team%20Images/hasan.jpg?updatedAt=1744635881389',
       social: {
         facebook: 'https://www.facebook.com/share/1JJsmApfSs/',
         linkedin: '#',
@@ -76,7 +76,7 @@ export function Team() {
       name: 'Abubakar Hussaini Bulama',
       role: 'Marketing Director',
       bio: 'Sadeeq drives our marketing strategies with data-driven insights and creativity.',
-      image: '/assets/images/sirdiq.jpg',
+      image: 'https://ik.imagekit.io/solvix/Team%20Images/sirdiq.jpg?updatedAt=1744635877485',
       social: {
         facebook: '#',
         linkedin: '#',
@@ -88,7 +88,7 @@ export function Team() {
       name: 'Ibrahim Usman Wudiri',
       role: 'Project Manager/ Software Engineer',
       bio: 'Wudiri ensures smooth project delivery and excellent client communication.',
-      image: '/assets/images/sirdiq.jpg',
+      image: 'https://ik.imagekit.io/solvix/Team%20Images/tooncap.png?updatedAt=1744635879869',
       social: {
         facebook: 'https://www.facebook.com/share/1XnBo1P4ex/',
         linkedin: 'www.linkedin.com/in/sadiq-h-bulama-288743331',
