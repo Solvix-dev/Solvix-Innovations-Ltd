@@ -66,7 +66,7 @@ export function Team() {
       bio: 'Ibrahim creates beautiful and intuitive user experiences that delight our clients.',
       image: '/assets/images/hasan.jpg',
       social: {
-        facebook: '#',
+        facebook: 'https://www.facebook.com/share/1JJsmApfSs/',
         linkedin: '#',
         instagram: '#',
         twitter: '#',
@@ -90,10 +90,10 @@ export function Team() {
       bio: 'Wudiri ensures smooth project delivery and excellent client communication.',
       image: '/assets/images/sirdiq.jpg',
       social: {
-        facebook: '#',
-        linkedin: '#',
-        instagram: '#',
-        twitter: '#',
+        facebook: 'https://www.facebook.com/share/1XnBo1P4ex/',
+        linkedin: 'www.linkedin.com/in/sadiq-h-bulama-288743331',
+        instagram: 'https://www.instagram.com/sirddeqbulama?igsh=cmwxYXF6cWF5enAz',
+        twitter: 'https://x.com/Sirddeq?t=4TBkxdWepwcyPGoWKbbqgA&s=09',
       },
     },
   ];
