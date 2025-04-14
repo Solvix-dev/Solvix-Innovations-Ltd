@@ -112,7 +112,7 @@ export function Contact() {
                 <Phone className="w-6 h-6 text-primary" />
                 <div>
                   <h4 className="font-medium">Phone</h4>
-                  <p className="text-muted-foreground">+234 8146565844/ +234</p>
+                  <p className="text-muted-foreground">+234 8146565844</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
