@@ -132,17 +132,18 @@ export function Contact() {
                     </a>
                   </Button>
                   <Button variant="ghost" size="icon" asChild>
-                    <a href="#" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.linkedin.com/in/solvix-dev345" target="_blank" rel="noopener noreferrer">
                       <Linkedin className="h-5 w-5" />
                     </a>
                   </Button>
                   <Button variant="ghost" size="icon" asChild>
-                    <a href="#" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.facebook.com/share/1CHHCggWrp/
+                    " target="_blank" rel="noopener noreferrer">
                       <Facebook className="h-5 w-5" />
                     </a>
                   </Button>
                   <Button variant="ghost" size="icon" asChild>
-                    <a href="#" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.instagram.com/solvix.dev?igsh=MTkyOXExZmEyazcwbQ==" target="_blank" rel="noopener noreferrer">
                       <Instagram className="h-5 w-5" />
                     </a>
                   </Button>

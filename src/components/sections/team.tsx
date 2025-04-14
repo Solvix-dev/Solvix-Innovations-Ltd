@@ -18,9 +18,9 @@ export function Team() {
       bio: 'Muhareeb is a visionary Engineer with a passion for technology and innovation.',
       image: 'https://ik.imagekit.io/solvix/Team%20Images/cap.jpeg?updatedAt=1744635877923',
       social: {
-        facebook: '#',
+        facebook: 'https://www.facebook.com/share/16L7ppcbJW/?mibextid=qi2Omg',
         linkedin: '#',
-        instagram: '#',
+        instagram: 'https://www.instagram.com/muha.reeb?igsh=YmhyczFremd3N3hq',
         twitter: '#',
       },
     },
@@ -30,10 +30,10 @@ export function Team() {
       bio: 'Kabeer oversees all technical operations, ensuring our solutions are top-notch.',
       image: 'https://ik.imagekit.io/solvix/Team%20Images/IMG-20220527-WA0009.jpg?updatedAt=1744636084793',
       social: {
-        facebook: '#',
-        linkedin: '#',
-        instagram: '#',
-        twitter: '#',
+        facebook: ' https://web.facebook.com/profile.php?id=100080875477298',
+        linkedin: 'https://www.linkedin.com/in/generallshakefire/',
+        instagram: ' https://nexalinks.carrd.co/',
+        twitter: ' https://x.com/shakefire001',
       },
     },
     {
@@ -78,10 +78,10 @@ export function Team() {
       bio: 'Sadeeq drives our marketing strategies with data-driven insights and creativity.',
       image: 'https://ik.imagekit.io/solvix/Team%20Images/sirdiq.jpg?updatedAt=1744635877485',
       social: {
-        facebook: '#',
-        linkedin: '#',
-        instagram: '#',
-        twitter: '#',
+        facebook: 'https://www.facebook.com/share/1XnBo1P4ex/',
+        linkedin: 'http://www.linkedin.com/in/sadiq-h-bulama-288743331',
+        instagram: 'https://www.instagram.com/sirddeqbulama?igsh=cmwxYXF6cWF5enAz',
+        twitter: 'https://x.com/Sirddeq?t=4TBkxdWepwcyPGoWKbbqgA&s=09',
       },
     },
     {
