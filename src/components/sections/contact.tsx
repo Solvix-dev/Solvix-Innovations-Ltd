@@ -89,7 +89,7 @@ export function Contact() {
                   rows={6}
                 />
               </div>
-              <Button type="submit" className="w-full">
+              <Button type="submit" className="w-full"  disabled={isSubmitting}>
                 Send Message
               </Button>
             </form>
