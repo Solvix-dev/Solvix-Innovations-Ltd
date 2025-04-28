@@ -88,12 +88,12 @@ export function Team() {
       name: 'Ibrahim Usman Wudiri',
       role: 'Project Manager/ Software Engineer',
       bio: 'Wudiri ensures smooth project delivery and excellent client communication.',
-      image: 'https://ik.imagekit.io/solvix/Team%20Images/tooncap.png?updatedAt=1744635879869',
+      image: 'https://ik.imagekit.io/solvix/Team%20Images/wudiri.jpg?updatedAt=1745833262624',
       social: {
-        facebook: 'https://www.facebook.com/share/1XnBo1P4ex/',
-        linkedin: 'www.linkedin.com/in/sadiq-h-bulama-288743331',
-        instagram: 'https://www.instagram.com/sirddeqbulama?igsh=cmwxYXF6cWF5enAz',
-        twitter: 'https://x.com/Sirddeq?t=4TBkxdWepwcyPGoWKbbqgA&s=09',
+        facebook: 'https://www.facebook.com/ibrahimu.wudiri',
+        linkedin: 'https://www.linkedin.com/in/ibrahim-usman-wudiri-37341a244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ',
+        instagram: 'https://www.instagram.com/wudir_iibrahim?utm_source=qr&igsh=MW9qeHZwbTE1NHljaw== ',
+        twitter: 'https://x.com/IWudiri55490?t=DgeBXsXHM_edJjMgp5a0DQ&s=08 ',
       },
     },
   ];
