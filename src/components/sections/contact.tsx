@@ -23,8 +23,8 @@ export function Contact() {
     setErrorMessage('');
 
     try {
-      const serviceId = 'solvixinnovation2024'; // Replace with your EmailJS service ID
-      const templateId = 'templete_qehrlwr'; // Replace with your EmailJS template ID
+      const serviceId = 'Solvixpage'; // Replace with your EmailJS service ID
+      const templateId = 'template_muvsbig'; // Replace with your EmailJS template ID
       const userId = 'RyiHvYoGOfMjp2JLW'; // Replace with your EmailJS user ID
 
       await emailjs.send(serviceId, templateId, formData, userId);
